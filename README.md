@@ -1,7 +1,7 @@
 # 1: 运用了mvp来实现简单的登陆案例，超级简单的案例。
 
  当用户名或密码为空时，显示登陆失败，否则显示登陆成功。
-
+#![效果图](https://github.com/wowo3129/mvp-demo/blob/master/image/Screenshot.png)
 # 2: 接口的回调 
  
 ###### 定义:
