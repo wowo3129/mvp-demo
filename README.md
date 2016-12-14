@@ -51,3 +51,4 @@ public class B{
 ##### 1 详解Android接口Interface的使用和意义 ： http://blog.csdn.net/qq_29623203/article/details/51195537
 ##### 2 浅谈 MVP in Android(用到了匿名回调，普通接口回调): http://blog.csdn.net/lmj623565791/article/details/46596109 //通过一个回调接口来通知登录的状态
 ##### 3 github 自己参考洋神写的mvp 登陆 案例：https://github.com/wowo3129/mvp-demo.git
+##### 4 (透彻)当观察者模式和回调机制遇上Android源码 ：http://blog.csdn.net/sdkfjksf/article/details/52640111#comments
