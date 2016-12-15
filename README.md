@@ -1,4 +1,5 @@
 # 1: mvp(登陆案例),接口回调,观察者模式
+(Java的就是在 被观察对象 中添加具体 观察者 的回调接口)
 
  当用户名或密码为空时，显示登陆失败，否则显示登陆成功。
 #![效果图](https://github.com/wowo3129/mvp-demo/blob/master/image/Screenshot.png)
