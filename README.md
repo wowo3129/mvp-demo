@@ -1,4 +1,4 @@
-# 1: 运用了mvp来实现简单的登陆案例，超级简单的案例。
+# 1: mvp(登陆案例),接口回调,观察者模式
 
  当用户名或密码为空时，显示登陆失败，否则显示登陆成功。
 #![效果图](https://github.com/wowo3129/mvp-demo/blob/master/image/Screenshot.png)
@@ -52,3 +52,4 @@ public class B{
 ##### 2 浅谈 MVP in Android(用到了匿名回调，普通接口回调): http://blog.csdn.net/lmj623565791/article/details/46596109 //通过一个回调接口来通知登录的状态
 ##### 3 github 自己参考洋神写的mvp 登陆 案例：https://github.com/wowo3129/mvp-demo.git
 ##### 4 (透彻)当观察者模式和回调机制遇上Android源码 ：http://blog.csdn.net/sdkfjksf/article/details/52640111#comments
+##### 5 观察者模式： 这套系统中主要包括三个部分：气象站（获取天气数据的物理设备）、WeatherData（追踪来自气象站的数据，并更新公告牌）、公告牌（用于展示天气数据） https://gold.xitu.io/post/57de12355bbb50005e648bd8
